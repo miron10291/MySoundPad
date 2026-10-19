@@ -1,3 +1,6 @@
+👉 **[Скачать готовую программу (.exe)](https://github.com/miron10291/MySoundPad/releases/latest)**
+👉 **[Скачать готовую программу (.exe)](https://github.com/miron10291/MySoundPad/releases/latest)**
+👉 **[Скачать готовую программу (.exe)](https://github.com/miron10291/MySoundPad/releases/latest)**
 # My SoundPad (Free Edition)
 
 Мой собственный саундпад, написанный на Python. 
