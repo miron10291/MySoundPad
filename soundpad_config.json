@@ -1,0 +1,112 @@
+{
+  "buttons": [
+    {
+      "label": "ТРОЕТОЧИЕ_ Поколен",
+      "path": "C:/Users/miros/Downloads/ТРОЕТОЧИЕ_ Поколено - ДАЛЬШЕ БОГА НЕТ (hitmos.fm).mp3",
+      "hotkey": "end"
+    },
+    {
+      "label": "Rabadoonga — Homer",
+      "path": "C:/Users/miros/Downloads/Rabadoonga — Homer Let The Barts Out (www.lightaudio.ru).mp3",
+      "hotkey": "down"
+    },
+    {
+      "label": "Звук 3",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 4",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 5",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 6",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 7",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 8",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 9",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 10",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 11",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 12",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 13",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 14",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 15",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 16",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 17",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 18",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 19",
+      "path": null,
+      "hotkey": null
+    },
+    {
+      "label": "Звук 20",
+      "path": null,
+      "hotkey": null
+    }
+  ],
+  "settings": {
+    "current_out_idx": 3,
+    "hotkey_pause": "f1",
+    "hotkey_stop": "f2",
+    "hotkey_next": "f11",
+    "hotkey_prev": "f12",
+    "hotkey_mute": "f8"
+  }
+}
